@@ -1,0 +1,179 @@
+/* ### Footer ### */
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+
+
+
+body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1170px;
+	 height: 180px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1170px;
+	 height: 180px;
+	 z-index:1;
+} 
+
+ #Base 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1170px;
+	 height: 180px;
+	 z-index:2;
+} 
+
+ #layer_3 
+{ 
+	 left: 982px; 
+	 top: 69px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 13px;
+	 z-index:3;
+} 
+
+ #layer_4 
+{ 
+	 left: 1013px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 16px;
+	 z-index:4;
+} 
+
+ #layer_5 
+{ 
+	 left: 969px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 15px;
+	 z-index:5;
+} 
+
+ #layer_6 
+{ 
+	 left: 667px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 17px;
+	 z-index:6;
+} 
+
+ #layer_7 
+{ 
+	 left: 669px; 
+	 top: 72px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 16px;
+	 z-index:7;
+} 
+
+ #layer_8 
+{ 
+	 left: 719px; 
+	 top: 104px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 13px;
+	 z-index:8;
+} 
+
+ #layer_9 
+{ 
+	 left: 670px; 
+	 top: 14px; 
+	 position: absolute; 
+	 width: 135px;
+	 height: 11px;
+	 z-index:9;
+} 
+
+ #layer_10 
+{ 
+	 left: 346px; 
+	 top: 38px; 
+	 position: absolute; 
+	 width: 189px;
+	 height: 17px;
+	 z-index:10;
+} 
+
+ #layer_11 
+{ 
+	 left: 401px; 
+	 top: 15px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 11px;
+	 z-index:11;
+} 
+
+ #Logo1 
+{ 
+	 left: 40px; 
+	 top: 15px; 
+	 position: absolute; 
+	 width: 90px;
+	 height: 40px;
+	 z-index:12;
+} 
+
+ #Tousdroitrservs 
+{ 
+	 left: 40px; 
+	 top: 81px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 10px;
+	 z-index:13;
+} 
+
+ #2017lpmpokerca 
+{ 
+	 left: 40px; 
+	 top: 57px; 
+	 position: absolute; 
+	 width: 229px;
+	 height: 11px;
+	 z-index:14;
+} 
