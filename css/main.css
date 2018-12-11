@@ -51,7 +51,7 @@ font-size: 18px;
 }
   
 .dayofweek{
- font-size: 14px;
+ font-size: 16px;
  color: blanchedalmond;
   
 }
@@ -75,6 +75,7 @@ font-size: 18px;
 .agenda .agenda-events .agenda-event  { 
  color: blanchedalmond;
  text-align: center;
+ font-size: 16px;
 } 
 
 .Tournoi{
@@ -157,8 +158,14 @@ line-height: inherit;
 
 
 /*************************
-*******Blog1******
+*******STH-C******
 **************************/
+.table {
+   width: 360px;
+    padding: 10px;
+    border: 5px solid #FFD080;
+    margin: 0; 
+}
  
 
 
